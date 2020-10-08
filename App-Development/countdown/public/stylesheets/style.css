@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: aqua;
+}
+
+h1 {
+  font-family: "Sail", cursive;
+  font-size: 70px;
+
+}
+
+p {
+  font-family: "Geo", sans-serif;
+  font-size: 40px;
+}
+
+p.cd {
+  color: red;
+}
